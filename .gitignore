@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Data and cache
+data/*.csv
+data/*.xlsx
+data/*.parquet
+*.zip
+*.pkl
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
